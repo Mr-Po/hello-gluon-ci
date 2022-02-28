@@ -61,7 +61,7 @@ public class HelloGluonApp extends Application {
             imageView.setFitHeight(200);
             imageView.setPreserveRatio(true);
 
-            Label label = new Label("Hello Mr.Po,Gluon Mobile!");
+            Label label = new Label("Hello Mr.Po,Gluon Mobile !");
             VBox root = new VBox(20, imageView, label);
             root.setAlignment(Pos.CENTER);
 
